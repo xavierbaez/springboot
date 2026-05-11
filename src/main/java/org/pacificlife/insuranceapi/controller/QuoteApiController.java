@@ -69,7 +69,7 @@ public class QuoteApiController {
                     "smoker", smoker,
                     "diabetes", diabetes,
                     "price", String.format("%.2f", base),
-                    "message", "Fallback Pacific Life estimate generated.",
+                    "message", "Fallback Pacific Life AI estimate.",
                     "source", "Local fallback pricing logic"
             );
         }
